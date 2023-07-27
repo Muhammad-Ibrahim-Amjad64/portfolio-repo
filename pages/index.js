@@ -50,7 +50,7 @@ export default function Home() {
 
   
     const redirectToExternalLink = () => {
-      const externalUrl = 'https://www.linkedin.com/in/muhammad-ibrahim-khan-68111a1a1/overlay/1635534554170/single-media-viewer/?profileId=ACoAAC8udEEB3tlLmYVs4uPw2V6LH4poBBZRomI';
+      const externalUrl = 'https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing';
       window.location.href = externalUrl;
     };
 
@@ -110,7 +110,7 @@ export default function Home() {
           <Socials className="mt-2 laptop:mt-5" />
         
   <Button onClick={redirectToExternalLink} type="primary">Download Resume</Button>
-  <Button classes="bg-black text-slate-400 border border-slate-400 rounded-1 " onClick={redirectToExternalLink} type="primary">My Work</Button>
+  <Button classes="bg-black color-white text-slate-400 border border-slate-400 rounded-1 " onClick={redirectToExternalLink} type="primary">My Work</Button>
       
 
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0">

@@ -5,7 +5,7 @@ import Button from "../Button";
 
 const Footer = ({}) => {
   const redirectToExternalLink = () => {
-    const externalUrl = 'https://www.linkedin.com/in/muhammad-ibrahim-khan-68111a1a1/overlay/1635534554170/single-media-viewer/?profileId=ACoAAC8udEEB3tlLmYVs4uPw2V6LH4poBBZRomI';
+    const externalUrl = 'https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing';
     window.location.href = externalUrl;
   };
 
