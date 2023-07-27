@@ -110,7 +110,7 @@ export default function Home() {
           <Socials className="mt-2 laptop:mt-5" />
         
   <Button onClick={redirectToExternalLink} type="primary">Download Resume</Button>
-  <Button classes="bg-black color-white text-slate-400 border border-slate-400 rounded-1 " onClick={redirectToExternalLink} type="primary">My Work</Button>
+  {/* <Button classes="bg-black color-white text-slate-400 border border-slate-400 rounded-1 " onClick={redirectToExternalLink} type="primary">My Work</Button> */}
       
 
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0">
