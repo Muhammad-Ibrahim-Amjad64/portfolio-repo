@@ -1,0 +1,120 @@
+{
+  "name": "Ibrahim",
+  "headerTaglineOne": "Hello I,m,",
+  "headerTaglineTwo": "Muhammad Ibrahim",
+  "headerTaglineThree": "",
+  "headerTaglineFour": "I Develop Front End & Back End Of Web Application Using Multiple FrameWorks .",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/Muhammad-Ibrahim-Amjad64"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/muhammad-ibrahim-khan-68111a1a1/"
+    },
+   
+    { "id": "5", "title": "Email", "link": "mailto:mibrahimmkhann@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Food Order App",
+      "description": "Web app Development",
+      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "2",
+      "title": "Medical Pager",
+      "description": "Web app Development",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "3",
+      "title": "Advanced Redux toolkit Ecommerce",
+      "description": "Web App Development",
+      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "4",
+      "title": "Conntext api Food order App",
+      "description": "Web App Developemnt",
+      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "5",
+      "title": "Expense Tracker",
+      "description": "Web and App Development ",
+      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "6",
+      "title": "Budget Buddy",
+      "description": "Mobile App development",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Mobile App Development",
+      "description": "I can develop your mobile app with high performance and great UI, so you have your business in the palm of your hand"
+    },
+    {
+      "id": "2",
+      "title": "Web App Development",
+      "description": "I can develop any website application using modern technologies which will grow your business."
+    },
+    {
+      "id": "3",
+      "title": "UI/UX Design",
+      "description": "I can design your idea into a web app design or mobile app design so you don't have to spend much time on development."
+    },
+    {
+      "id": "4",
+      "title": "3D Modeling & Animation",
+      "description": "I can design your idea into a web app design or mobile app design so you don't have to spend much time on development."
+    }
+  ],
+  "aboutpara": "I am a full stack developer with expertise in Reactjs, Nextjs, Material-UI, Node.js, Redux, Socket.io, Pusher, Chart.js, Threejs and API development. I can help you build a responsive and scalable web application that meets your needs. Whether you need a web application built from scratch, or you need someone to help you improve an existing web application, I am here to help!.",
+  "resume": {
+    "tagline": " I'm a Full stack software Developer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Part-time Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University of Karachi- UBIT",
+      "universityDate": "2021-2024",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
