@@ -13,6 +13,7 @@ import Cursor from "../components/Cursor";
 // import Button from "../components/Button";
 // Local Data
 import data from "../data/portfolio.json";
+import Skills from "../components/Skills";
 
 export default function Home() {
   // Ref
@@ -77,28 +78,28 @@ export default function Home() {
           <div className="mt-5" 
           // style={{alignItems:"center", justifyContent:"center", display:"flex", flexDirection:"column"}}
           >
-            <h1>________Not a finalized portfolio(Under Development will be updated soon)</h1>
+            <h1 className="text-8xl bg-slate-800" >Not finalized....</h1>
             <h1  
               ref={textOne}
-              className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-6xl p-1 tablet:p-2 text-bold w-4/5 mob:w-full laptop:w-4/5"
+              className="text-6xl tablet:text-6xl laptop:text-6xl laptopl:text-6xl p-1 tablet:p-2 text-bold w-4/5 mob:w-full laptop:w-4/5"
             >
               {data.headerTaglineOne}
             </h1>
             <h1 
               ref={textTwo}
-              className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-6xl p-1 tablet:p-2 text-bold w-full laptop:w-4/5"
+              className="text-6xl tablet:text-6xl laptop:text-6xl laptopl:text-6xl p-1 tablet:p-2 text-bold w-full laptop:w-4/5 text-slate-400"
             >
               {data.headerTaglineTwo}
             </h1>
-            <h1 
+            {/* <h1 
               ref={textThree}
-              className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl p-1 tablet:p-2 text-bold w-full laptop:w-4/5"
+              className="text-lg tablet:text-lg laptop:text-lg laptopl:text-lg p-1 tablet:p-2 text-bold w-full laptop:w-4/5"
             >
               {data.headerTaglineThree}
-            </h1>
+            </h1> */}
             <h1 
               ref={textFour}
-              className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-2xl p-1 tablet:p-2 text-bold w-full laptop:w-4/5 text-slate-400" 
+              className="text-lg tablet:text-lg laptop:text-lg laptopl:text-lg p-1 tablet:p-2 text-bold w-full laptop:w-4/5 text-white" 
             >
               {data.headerTaglineFour}
             </h1>
@@ -107,14 +108,20 @@ export default function Home() {
           </div>
 
 
-          <Socials className="mt-2 laptop:mt-5" />
+          <Socials className="text-slate-400 mt-2 laptop:mt-5 mb-500"  />
         
-  <Button onClick={redirectToExternalLink} type="primary">Download Resume</Button>
+  {/* <Button onClick={redirectToExternalLink} type="primary">Download Resume</Button> */}
   {/* <Button classes="bg-black color-white text-slate-400 border border-slate-400 rounded-1 " onClick={redirectToExternalLink} type="primary">My Work</Button> */}
       
-
-        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0">
-          <h1 className="tablet:m-10 text-2xl text-bold">My Services.</h1>
+  <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
+          <h1 className="tablet:m-10 text-6xl text-bold">Introduction</h1>
+          <h1 className="tablet:m-10 text-4xl text-bold">About <span className="text-slate-400"> me</span></h1>
+          <p className="tablet:m-10 mt-2 text-lg laptop:text-lg w-full laptop:w-3/5 bg-slate-800 p-5 rounded">
+            {data.aboutpara}
+          </p>
+        </div>
+          <div className="mt-20 laptop:mt-30 p-2 laptop:p-0">
+          <h1 className="tablet:m-10 text-6xl text-bold">My <span className="text-slate-400"> Services</span></h1>
           <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6">
             {data.services.map((service, index) => (
               <ServiceCard
@@ -130,9 +137,9 @@ export default function Home() {
         </div>
         
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
-          <h1 className="text-2xl text-bold"> My Work.</h1>
+          <h1 className="text-6xl text-bold"> My <span className="text-slate-400"> Work</span></h1>
 
-          <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4">
+          <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-4 gap-4">
             {data.projects.map((project) => (
               <WorkCard
                 key={project.id}
@@ -144,12 +151,7 @@ export default function Home() {
             ))}
           </div>
         </div>
-        <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
-          <h1 className="tablet:m-10 text-2xl text-bold">About.</h1>
-          <p className="tablet:m-10 mt-2 text-xl laptop:text-2xl w-full laptop:w-3/5">
-            {data.aboutpara}
-          </p>
-        </div>
+     
 
        
         {/* This button should not go into production */}
@@ -160,6 +162,23 @@ export default function Home() {
             </Link>
           </div>
         )} */}
+       
+        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
+          <div className="text-6xl text-bold"> My <span className="text-slate-400"> Skills</span></div>
+         
+
+          <div className="mt-5 laptop:mt-10 grid grid-cols-3 flex items-center justify-center tablet:grid-cols-5 gap-4">
+            {data.skills.map((project) => (
+              <Skills
+                key={project.id}
+                img={project.imageSrc}
+                name={project.title}
+                // description={project.description}
+                onClick={() => window.open(project.url)}
+              />
+            ))}
+          </div>
+        </div>
         <Footer />
       </div>
     </div>

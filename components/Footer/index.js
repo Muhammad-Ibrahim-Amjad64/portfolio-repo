@@ -13,14 +13,14 @@ const Footer = ({}) => {
     <>
       <div className="mt-5 laptop:mt-40 p-2 laptop:p-0">
         <div>
-          <h1 className="text-2xl text-bold">Contact.</h1>
+          <h1 className="text-6xl text-bold">Contact.</h1>
           <div className="mt-10">
-            <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-4xl text-bold">
-              LET&apos;S WORK
+            <h1 className="text-4xl tablet:text-4xl laptop:text-4xl laptopl:text-4xl text-bold text-slate-400">
+              LET&apos;S WORK TOGETHER
             </h1>
-            <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-4xl text-bold">
-              TOGETHER
-            </h1>
+            {/* <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-4xl text-bold">
+              
+            </h1> */}
             <Button onClick={() => window.open("contact: +923122990606")} type="primary">Call me</Button>
             <Button  onClick={() => window.open("mailto: mibrahimmkhann@gmail.com")} type="primary">Email me </Button>
             <div className="mt-10">

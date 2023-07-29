@@ -9,9 +9,15 @@ const Socials = ({ className }) => {
     
       `}>
       {yourData.socials.map((social, index) => (
-        <Button key={index} onClick={() => window.open(social.link)}>
+        <>
+           {social.title==="Github" &&  <Button onClick={()=>{}} type="primary">Download Resume</Button>}
+        <Button classes="text-slate-300 bg-black" key={index} onClick={() => window.open(social.link)}>
           {social.title}
-        </Button>
+          </Button>
+         
+      
+     
+        </>
       ))}
     </div>
   );

@@ -1,0 +1,24 @@
+.body {
+  margin: 0;
+  overflow: hidden; /* To prevent scrollbars when balls move out of the viewport */
+}
+.ball {
+    width: 20px;
+    height: 20px;
+    background-color: #ff6384;
+    border-radius: 50%;
+    position: absolute;
+    animation: moveBalls 3s linear infinite; /* Using animation */
+  }
+  
+  @keyframes moveBalls {
+    0% {
+      transform: translateY(0) translateX(0);
+    }
+    50% {
+      transform: translateY(100vh) translateX(100vw);
+    }
+    100% {
+      transform: translateY(0) translateX(0);
+    }
+  }
