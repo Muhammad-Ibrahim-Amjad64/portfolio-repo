@@ -57,7 +57,7 @@ export default function Home() {
 
    
   return (
-    <div className={`relative ${data.showCursor && "cursor-none"}`}>
+    <div style={{ fontFamily: 'Russo One' }} className={`relative ${data.showCursor && "cursor-none"}`}>
       {data.showCursor && <Cursor />}
       <Head>
         <title>{data.name}</title>
@@ -78,16 +78,16 @@ export default function Home() {
           <div className="mt-5" 
           // style={{alignItems:"center", justifyContent:"center", display:"flex", flexDirection:"column"}}
           >
-            <h1 className="text-8xl bg-slate-800" >Not finalized....</h1>
+            {/* <h1 className="text-8xl bg-slate-800" >Not finalized....</h1> */}
             <h1  
               ref={textOne}
-              className="text-6xl tablet:text-6xl laptop:text-6xl laptopl:text-6xl p-1 tablet:p-2 text-bold w-4/5 mob:w-full laptop:w-4/5"
+              className="text-6xl tablet:text-6xl laptop:text-6xl laptopl:text-6xl p-1 tablet:p-2  text-bold w-4/5 mob:w-full laptop:w-4/5"
             >
               {data.headerTaglineOne}
             </h1>
             <h1 
               ref={textTwo}
-              className="text-6xl tablet:text-6xl laptop:text-6xl laptopl:text-6xl p-1 tablet:p-2 text-bold w-full laptop:w-4/5 text-slate-400"
+              className="text-6xl tablet:text-6xl laptop:text-6xl laptopl:text-6xl p-1 tablet:p-2  text-bold w-full laptop:w-4/5 text-slate-400"
             >
               {data.headerTaglineTwo}
             </h1>
@@ -99,7 +99,7 @@ export default function Home() {
             </h1> */}
             <h1 
               ref={textFour}
-              className="text-lg tablet:text-lg laptop:text-lg laptopl:text-lg p-1 tablet:p-2 text-bold w-full laptop:w-4/5 text-white" 
+              className="text-lg tablet:text-lg laptop:text-lg laptopl:text-lg p-1 tablet:p-2 text-bold w-full laptop:w-4/5 text-white font-sans font-semibold" 
             >
               {data.headerTaglineFour}
             </h1>
@@ -108,7 +108,7 @@ export default function Home() {
           </div>
 
 
-          <Socials className="text-slate-400 mt-2 laptop:mt-5 mb-500"  />
+          <Socials className="text-slate-400 mt-2 laptop:mt-5 mb-500 font-bold font-sans "  />
         
   {/* <Button onClick={redirectToExternalLink} type="primary">Download Resume</Button> */}
   {/* <Button classes="bg-black color-white text-slate-400 border border-slate-400 rounded-1 " onClick={redirectToExternalLink} type="primary">My Work</Button> */}
@@ -116,7 +116,7 @@ export default function Home() {
   <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
           <h1 className="tablet:m-10 text-6xl text-bold">Introduction</h1>
           <h1 className="tablet:m-10 text-4xl text-bold">About <span className="text-slate-400"> me</span></h1>
-          <p className="tablet:m-10 mt-2 text-lg laptop:text-lg w-full laptop:w-3/5 bg-slate-800 p-5 rounded">
+          <p className="tablet:m-10 mt-2 text-lg laptop:text-lg w-full laptop:w-3/5 bg-slate-800 p-5 rounded font-sans font-semibold">
             {data.aboutpara}
           </p>
         </div>
@@ -139,9 +139,11 @@ export default function Home() {
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
           <h1 className="text-6xl text-bold"> My <span className="text-slate-400"> Work</span></h1>
 
-          <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-4 gap-4">
+          <div className="mt-10 m-30 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-3 gap-4">
             {data.projects.map((project) => (
               <WorkCard
+                descriptionLarge={project.description2}
+                skills={project.skills}
                 key={project.id}
                 img={project.imageSrc}
                 name={project.title}
@@ -184,3 +186,6 @@ export default function Home() {
     </div>
   );
 }
+
+
+// const ali = ()=>{}

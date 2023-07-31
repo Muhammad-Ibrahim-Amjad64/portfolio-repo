@@ -5,7 +5,7 @@
 @import "./markdown.css";
 
 * {
-  font-family: "Hind";
+  font-family: "Russo One";
 }
 
 body {
@@ -23,7 +23,7 @@ body {
   filter: blur(40px);
   background: radial-gradient(
     circle,
-    rgba(248, 107, 223, 1) 0%,
+    rgb(107, 241, 248) 0%,
     rgba(107, 107, 248, 0.8) 100%
   );
 }
@@ -38,7 +38,7 @@ body {
   filter: blur(40px);
   background: radial-gradient(
     circle,
-    rgba(248, 107, 223, 1) 0%,
+    rgb(107, 241, 248) 0%,
     rgba(107, 107, 248, 0.8) 100%
   );
 }

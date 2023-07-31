@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Russo One';
+    /* src: url('/path/to/your/font/RussoOne-Regular.ttf') format('truetype'); Adjust the path to your font file */
+    src: url('../public/RussoOne-Regular.ttf') format('truetype'); /* Adjust the path to your font file */
+    /* Add more src declarations here for different font file formats (e.g., woff, woff2) if available */
+    font-weight: normal;
+    font-style: normal;
+  }

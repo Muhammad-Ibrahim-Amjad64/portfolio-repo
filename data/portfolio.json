@@ -25,72 +25,94 @@
   "projects": [
     {
       "id": "1",
-      "title": "Food Order App",
-      "description": "Web app Development",
-      "imageSrc": "/images/redux cart 1.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
-    },
-    {
-      "id": "2",
-      "title": "Medical Pager",
-      "description": "Web app Development",
-      "imageSrc": "/images/redux cart 1.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
-    },
-    {
-      "id": "3",
-      "title": "Advanced Redux toolkit Ecommerce",
+      "title": "BurgerEats",
       "description": "Mobile App Development",
-      "imageSrc": "/images/redux cart 1.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
-    },
-    {
-      "id": "4",
-      "title": "Conntext api Food order App",
-      "description": "Web App Developemnt",
+    "description2": "lorem dkwkd ddkdmd k;lddm adkwmdlak dl dlkmd akdmad wef we d sd weddwed wdddwed ",
+      "skills": "#React Native #Firebase #stripe #axios #REDUX toolkit",
       "imageSrc": "/images/meals app 1.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     },
     {
+      "id": "2",
+      "title": "ShoeSphere - Shoe Store",
+      "description": "Web app Development",
+      "description2": "lorem dkwkd ddkdmd k;lddm adkwmdlak dl dlkmd akdmad wef we d sd weddwed wdddwed",
+      "skills": "Nextjs",
+      "imageSrc": "/images/shoe.png",
+      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+    },
+    {
+      "id": "3",
+      "title": "WonderBuy",
+      "description": "Web App Development",
+      "description2": "lorem dkwkd ddkdmd k;lddm adkwmdlak dl dlkmd akdmad wef we d sd weddwed wdddwed",
+      "skills": "Reactjs",
+      "imageSrc": "/images/wbuy.png",
+      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+    },
+    {
+      "id": "4",
+      "title": "DocCom",
+      "description": "Web App Developemnt",
+      "description2": "lorem dkwkd ddkdmd k;lddm adkwmdlak dl dlkmd akdmad wef we d sd weddwed wdddwedt",
+      "skills": "Reactjs",
+      "imageSrc": "/images/doccom.png",
+      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+    },
+    {
       "id": "5",
-      "title": "Expense Tracker",
-      "description": "Web and App Development ",
-      "imageSrc": "/images/expense.png",
+      "title": "TastyBites",
+      "description": "Web app Development",
+      "description2": "lorem dkwkd ddkdmd k;lddm adkwmdlak dl dlkmd akdmad wef we d sd weddwed wdddwedt",
+      "skills": "Reactjs",
+      "imageSrc": "https://i.ytimg.com/vi/2W8LP3iUzeE/maxresdefault.jpg",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     },
     {
       "id": "6",
-      "title": "Budget Buddy",
+      "title": "Fintrack",
       "description": "Mobile App development",
-      "imageSrc": "/images/expense.png",
+      "description2": "lorem dkwkd ddkdmd k;lddm adkwmdlak dl dlkmd akdmad wef we d sd weddwed wdddwedt",
+      "skills": "#React Native #Firebase #stripe #axios #REDUX toolkit",
+      "imageSrc": "/images/expenseN.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     },
+ 
     {
       "id": "7",
-      "title": "Budget Buddy",
-      "description": "Mobile App development",
-      "imageSrc": "/images/expense.png",
+      "title": "Facebook messenger Clone",
+      "description": "Mobile App development (Fullstack)",
+      "description2": "Web app Development",
+      "skills": "Web app Development",
+      "imageSrc": "https://i.ytimg.com/vi/2W8LP3iUzeE/maxresdefault.jpg",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     },
+    
     {
       "id": "8",
-      "title": "Budget Buddy",
-      "description": "Mobile App development",
+      "title": "FinanceFlow",
+      "description": "Web App Developemnt",
+      "description2": "Web app Development",
+      "skills": "Web app Development",
       "imageSrc": "/images/expense.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     },
     {
       "id": "9",
-      "title": "Budget Buddy",
+      "title": "Vidly Backend",
       "description": "Mobile App development",
-      "imageSrc": "/images/expense.png",
+      "description2": "Web app Development",
+      "skills": "Backend Development",
+      "imageSrc": "/images/vidly.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     },
     {
       "id": "10",
-      "title": "Budget Buddy",
+      "title": "WanderTales",
       "description": "Mobile App development",
-      "imageSrc": "/images/expense.png",
+      "description2": "Web app Development",
+      "skills": "Web app Development",
+      "imageSrc": "https://i.ytimg.com/vi/2W8LP3iUzeE/maxresdefault.jpg",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     }
   ],
@@ -163,6 +185,41 @@
       "title": "firebase",
     
       "imageSrc": "/images/firebase.webp",
+      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+    },
+    {
+      "id": "11",
+      "title": "REDUX",
+    
+      "imageSrc": "/images/redux.png",
+      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+    },
+    {
+      "id": "12",
+      "title": "Material UI",
+    
+      "imageSrc": "/images/material.png",
+      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+    },
+    {
+      "id": "13",
+      "title": "Tailwind CSS",
+    
+      "imageSrc": "/images/tailwind.png",
+      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+    },
+    {
+      "id": "14",
+      "title": "React Native Paper",
+    
+      "imageSrc": "/images/paper.png",
+      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+    },
+    {
+      "id": "15",
+      "title": "Chakra UI",
+    
+      "imageSrc": "/images/chakra.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     }
   ],
