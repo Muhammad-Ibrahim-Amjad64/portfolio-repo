@@ -29,7 +29,7 @@
       "description": "Mobile App Development",
     "description2": "lorem dkwkd ddkdmd k;lddm adkwmdlak dl dlkmd akdmad wef we d sd weddwed wdddwed ",
       "skills": "#React Native #Firebase #stripe #axios #REDUX toolkit",
-      "imageSrc": "/images/meals app 1.png",
+      "imageSrc": "/images/burger.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     },
     {
@@ -65,13 +65,13 @@
       "description": "Web app Development",
       "description2": "lorem dkwkd ddkdmd k;lddm adkwmdlak dl dlkmd akdmad wef we d sd weddwed wdddwedt",
       "skills": "Reactjs",
-      "imageSrc": "https://i.ytimg.com/vi/2W8LP3iUzeE/maxresdefault.jpg",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "imageSrc": "/images/meals app 1.png",
+      "url": "https://tastybite-meals.netlify.app/"
     },
     {
       "id": "6",
       "title": "Fintrack",
-      "description": "Mobile App development",
+      "description": "Mobile App Development",
       "description2": "lorem dkwkd ddkdmd k;lddm adkwmdlak dl dlkmd akdmad wef we d sd weddwed wdddwedt",
       "skills": "#React Native #Firebase #stripe #axios #REDUX toolkit",
       "imageSrc": "/images/expenseN.png",
@@ -81,10 +81,10 @@
     {
       "id": "7",
       "title": "Facebook messenger Clone",
-      "description": "Mobile App development (Fullstack)",
+      "description": "Mobile App Development (Fullstack)",
       "description2": "Web app Development",
       "skills": "Web app Development",
-      "imageSrc": "https://i.ytimg.com/vi/2W8LP3iUzeE/maxresdefault.jpg",
+      "imageSrc": "/images/clone.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     },
     
@@ -95,24 +95,24 @@
       "description2": "Web app Development",
       "skills": "Web app Development",
       "imageSrc": "/images/expense.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://react-finance-flow.netlify.app/"
     },
     {
       "id": "9",
       "title": "Vidly Backend",
-      "description": "Mobile App development",
+      "description": "Backend Development",
       "description2": "Web app Development",
       "skills": "Backend Development",
       "imageSrc": "/images/vidly.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64/Vidly-backend"
     },
     {
       "id": "10",
       "title": "WanderTales",
-      "description": "Mobile App development",
+      "description": "Mobile App Development",
       "description2": "Web app Development",
       "skills": "Web app Development",
-      "imageSrc": "https://i.ytimg.com/vi/2W8LP3iUzeE/maxresdefault.jpg",
+      "imageSrc": "/images/places.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     }
   ],

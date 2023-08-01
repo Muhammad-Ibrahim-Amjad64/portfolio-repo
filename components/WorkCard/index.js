@@ -5,6 +5,11 @@ import Button from "../Button";
 const WorkCard = ({ img, name, description, onClick, descriptionLarge, skills }) => {
   // console.log(img)
   // const imagePath = require("../../assets/redux cart 1.png").default
+  let title = "View Project"
+  if (description === "Mobile App Development") {
+    title="Download APK"
+    
+  }
   return (
     <div 
     // <div style={{ fontFamily: 'Hind' }}
@@ -34,7 +39,7 @@ const WorkCard = ({ img, name, description, onClick, descriptionLarge, skills })
       </h2>
       <h2 className="text-purple-300">{skills}
         <div>
-      <Button  onClick={onClick} type="primary">View project</Button>
+          <Button onClick={onClick} type="primary">{ title}</Button>
         </div>
       </h2>
     </div>
