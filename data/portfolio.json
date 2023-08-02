@@ -221,6 +221,42 @@
     
       "imageSrc": "/images/chakra.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+    },
+    {
+      "id": "16",
+      "title": "git/Github",
+    
+      "imageSrc": "/images/git.png",
+      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+    },
+    {
+      "id": "17",
+      "title": "SQL",
+    
+      "imageSrc": "/images/sql.png",
+      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+    },
+   
+    {
+      "id": "18",
+      "title": "Three.js",
+    
+      "imageSrc": "/images/three.png",
+      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+    },
+    {
+      "id": "19",
+      "title": "Vuejs",
+    
+      "imageSrc": "/images/vue.png",
+      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+    },
+    {
+      "id": "20",
+      "title": "Boostrap",
+    
+      "imageSrc": "/images/boo.png",
+      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     }
   ],
   "services": [

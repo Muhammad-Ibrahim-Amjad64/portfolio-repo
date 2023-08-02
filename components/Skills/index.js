@@ -6,10 +6,10 @@ const Skills = ({ img, name, description, onClick }) => {
   // const imagePath = require("../../assets/redux cart 1.png").default
     
     let style = "relative rounded-lg overflow-hidden transition-all ease-out duration-300 h-48 mob:h-auto bg-white bg-cover   justify-center flex items-center  rounded-full p-2 bg-slate-600 "
-    if (name === "React Native") {
-        style="relative rounded-lg overflow-hidden transition-all ease-out duration-300 h-48 mob:h-auto bg-slate-600 bg-cover   justify-center flex items-center  rounded-full p-2 "
+    // if (name === "React Native") {
+    //     style="relative rounded-lg overflow-hidden transition-all ease-out duration-300 h-48 mob:h-auto bg-slate-600 bg-cover   justify-center flex items-center  rounded-full p-2 "
         
-    }
+    // }
   return (
     <div
       className="overflow-hidden rounded-lg p-2 laptop:p-4 first:ml-0 link justify-center flex items-center flex-col"

@@ -8,10 +8,71 @@
   font-family: "Russo One";
 }
 
+
+/* .meals {
+  max-width: 60rem;
+  width: 90%;
+  margin: 2rem auto;
+  animation: meals-appear 1s ease-out forwards;
+} */
+
+
+
 body {
   @apply dark:bg-black dark:text-white;
-  /* background-image: url("/images/"); */
+  
+  background-image: url("/images/glass.png");
+  /* background-image: url("/images/tran2.png"); */
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* background-size: auto; */
+  /* background-color: #e5e5e5; */
+  background-color: #030B23;
+  /* animation: meals-appear 1s ease-out forwards; */
+  /* opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease-in, transform 0.5s ease-in; */
+
 }
+
+@keyframes meals-appear {
+  from {
+    opacity: 0;
+    transform: translateY(3rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+/*  add these 2 classes  */
+
+/* .fadeInUp {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.fadeInUp.show {
+  opacity: 1;
+  transform: translateY(0);
+} */
+/* .hidden{
+opacity: 0;
+filter: blur(5px);
+transform: translateX(-100%);
+transition: all 1s;
+}
+.show{
+
+  opacity: 1;
+  filter: blur(0);
+  transform: translateX(0);
+} */
+
 
 .gradient-circle {
   position: absolute;
