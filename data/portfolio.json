@@ -3,7 +3,7 @@
   "headerTaglineOne": "Hello, I'm",
   "headerTaglineTwo": "Muhammad Ibrahim",
   "headerTaglineThree": "",
-  "headerTaglineFour": "I Develop Front End & Back End Of Web Application Using Multiple FrameWorks .",
+  "headerTaglineFour": "I Develop Front End & Back End Of Web and Mobile Applications  Using Multiple FrameWorks .",
   "showCursor": true,
   "showBlog": true,
   "darkMode": true,
@@ -36,7 +36,7 @@
       "id": "2",
       "title": "ShoeSphere - Shoe Store",
       "description": "Web app Development",
-      "description2": "lorem dkwkd ddkdmd k;lddm adkwmdlak dl dlkmd akdmad wef we d sd weddwed wdddwed",
+      "description2": "fullStack show shop using nextns and nodejs using mongodb database",
       "skills": "Nextjs",
       "imageSrc": "/images/shoe.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
@@ -54,7 +54,7 @@
       "id": "4",
       "title": "DocCom",
       "description": "Web App Developemnt",
-      "description2": "lorem dkwkd ddkdmd k;lddm adkwmdlak dl dlkmd akdmad wef we d sd weddwed wdddwedt",
+      "description2": "",
       "skills": "Reactjs",
       "imageSrc": "/images/doccom.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
@@ -72,18 +72,18 @@
       "id": "6",
       "title": "Fintrack",
       "description": "Mobile App Development",
-      "description2": "lorem dkwkd ddkdmd k;lddm adkwmdlak dl dlkmd akdmad wef we d sd weddwed wdddwedt",
-      "skills": "#React Native #Firebase #stripe #axios #REDUX toolkit",
+      "description2": "An Expense Tracker was developed using Firebase Realtime Database. CRUD operations were implemented using Axios, while form validation was achieved through Formik and Yup. The project also utilized Context API, navigation features, and CRUD operations. Firebase was chosen as the backend for one instance of the project, while the other instance used a Node.js backend with MongoDB as the database. Additionally, a third-party UI library, React Native Paper, was employed.",
+      "skills": "#ReactNative #Nodejs #Mongodb #Firebase #axios #ContextApi #frommik&yup #Navigations",
       "imageSrc": "/images/expenseN.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64/REACT-NATIVE---All-PROJECTS-/tree/master/Apks/Expense%20Tracker"
     },
  
     {
       "id": "7",
       "title": "Facebook messenger Clone",
-      "description": "Mobile App Development (Fullstack)",
-      "description2": "Web app Development",
-      "skills": "Web app Development",
+      "description": "Mobile App Development",
+      "description2": " Facebook Messenger Clone app, a showcase of my skills in frontend and backend development. Built using cutting-edge technologies, this app mimics the familiar chat interface of Facebook Messenger. From real-time messaging to user authentication, I've implemented features that demonstrate my proficiency in creating interactive and secure applications.",
+      "skills": "#ReactNative #StreamChat #Firebase",
       "imageSrc": "/images/clone.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     },
@@ -92,8 +92,9 @@
       "id": "8",
       "title": "FinanceFlow",
       "description": "Web App Developemnt",
-      "description2": "Web app Development",
-      "skills": "Web app Development",
+      "description2": " In this porjec tI practiced all react hooks and  state managemen, events, Rendering conditional content, components, animations, formvalidations, useReducer, chart.js, working with date objects",
+
+      "skills": "#Reactjs #chart.js #formik&yup",
       "imageSrc": "/images/expense.png",
       "url": "https://react-finance-flow.netlify.app/"
     },
@@ -101,8 +102,8 @@
       "id": "9",
       "title": "Vidly Backend",
       "description": "Backend Development",
-      "description2": "Web app Development",
-      "skills": "Backend Development",
+      "description2": "Made a clone of vidly backend site. Developed and maintained the backend infrastructure of the Vidly movie site, including databases, search algorithms, and efficient content management across a diverse array of genres such as action, comedy, drama, horror, romance, and more,route handling, middleware, and error handling in Express.",
+      "skills": " #Express.js #Node.js #MongoDB #JWT #Multer ",
       "imageSrc": "/images/vidly.png",
       "url": "https://github.com/Muhammad-Ibrahim-Amjad64/Vidly-backend"
     },
@@ -110,8 +111,8 @@
       "id": "10",
       "title": "WanderTales",
       "description": "Mobile App Development",
-      "description2": "Web app Development",
-      "skills": "Web app Development",
+      "description2": "virtual notebook application that allowed users to save and organize their favorite places, complete with information, photos, Location and personal notes",
+      "skills": "#ReactNative #ImageUpload #GoogleMaps #SQLite #LocalStorage #formik&yup",
       "imageSrc": "/images/places.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     }
