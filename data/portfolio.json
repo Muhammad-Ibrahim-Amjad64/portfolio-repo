@@ -27,8 +27,8 @@
       "id": "1",
       "title": "BurgerEats",
       "description": "Mobile App Development",
-    "description2": "lorem dkwkd ddkdmd k;lddm adkwmdlak dl dlkmd akdmad wef we d sd weddwed wdddwed ",
-      "skills": "#React Native #Firebase #stripe #axios #REDUX toolkit",
+    "description2": " An online burger ordering application that closely resembles Burger's Lab ordering platform. This app is designed to provide a similar experience, allowing users to conveniently order their favorite burgers with just a few clicks. Inspired by the functionality and user-friendly interface of Burger's Lab, my application aims to capture the essence of their service while offering a unique twist. Users can explore a wide range of burger options amnd meals",
+      "skills": "#React Native #Firebase #stripe #axios #REDUX toolkit #Authentication",
       "imageSrc": "/images/burger.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     },
@@ -36,8 +36,8 @@
       "id": "2",
       "title": "ShoeSphere - Shoe Store",
       "description": "Web app Development",
-      "description2": "fullStack show shop using nextns and nodejs using mongodb database",
-      "skills": "Nextjs",
+      "description2": "A FullStack shoe shop that leverages the dynamic capabilities of Next.js and Node.js, coupled with a MongoDB database. Seamlessly incorporated within this platform is the powerful Stripe payment integration, guaranteeing secure and smooth transactions. An advanced authentication system further enhances user engagement, providing personalized experiences and order tracking.",
+      "skills": "#Nextjs #Nodejs #MongoDB #Stripe  #Expressjs #REDUX toolkit #Authentication passport.js #CMS   ",
       "imageSrc": "/images/shoe.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     },
@@ -45,8 +45,8 @@
       "id": "3",
       "title": "WonderBuy",
       "description": "Web App Development",
-      "description2": "lorem dkwkd ddkdmd k;lddm adkwmdlak dl dlkmd akdmad wef we d sd weddwed wdddwed",
-      "skills": "Reactjs",
+      "description2": "An innovative e-commerce platform, the FullStack E-Commerce, harnesses the versatility of React.js and Node.js. Backed by a MongoDB database, this dynamic application offers seamless browsing and purchasing experiences. The integration of Stripe ensures secure payments, while an advanced authentication system adds a personalized touch, fostering user engagement and facilitating order tracking.",
+      "skills": "#Reactjs #Nodejs #MongoDB #Stripe  #Expressjs #REDUX toolkit #Authentication passport.js #CMS",
       "imageSrc": "/images/wbuy.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     },
@@ -54,8 +54,8 @@
       "id": "4",
       "title": "DocCom",
       "description": "Web App Developemnt",
-      "description2": "",
-      "skills": "Reactjs",
+      "description2": " Experience a full stack chat application that combines secure authentication, Twilio SMS notifications, direct/group chats, threaded replies, emojis, GIFs, YouTube video embedding, and intuitive search capabilities. This versatile platform redefines communication by seamlessly integrating these features, making conversations more engaging and efficient.",
+      "skills": "#Reactjs #Nodejs #MongoDB #Expressjs #Socket.io #streamChat #UniversalCookies #getStream.io ",
       "imageSrc": "/images/doccom.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     },
@@ -63,8 +63,8 @@
       "id": "5",
       "title": "TastyBites",
       "description": "Web app Development",
-      "description2": "lorem dkwkd ddkdmd k;lddm adkwmdlak dl dlkmd akdmad wef we d sd weddwed wdddwedt",
-      "skills": "Reactjs",
+      "description2": "A web application tailored for restaurants, empowering seamless online meal ordering. This cutting-edge solution is expertly crafted, with a Firebase backend ensuring robust functionality, while the React frontend employs the Context API for efficient state management. Customers can enjoy a user-friendly interface, effortlessly browsing menu options, placing orders. The synergy between Firebase and React guarantees real-time updates, enhancing order accuracy and delivery efficiency, making this application a pivotal asset for modern restaurants aiming to provide convenient and satisfying dining experiences. ",
+      "skills": " #Reactjs #Firebase #Context Api #Authentication #formik&yup #Axios",
       "imageSrc": "/images/meals app 1.png",
       "url": "https://tastybite-meals.netlify.app/"
     },
@@ -83,7 +83,7 @@
       "title": "Facebook messenger Clone",
       "description": "Mobile App Development",
       "description2": " Facebook Messenger Clone app, a showcase of my skills in frontend and backend development. Built using cutting-edge technologies, this app mimics the familiar chat interface of Facebook Messenger. From real-time messaging to user authentication, I've implemented features that demonstrate my proficiency in creating interactive and secure applications.",
-      "skills": "#ReactNative #StreamChat #Firebase",
+      "skills": "#ReactNative #StreamChat #Firebase #Authentication #NativeFeatures",
       "imageSrc": "/images/clone.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
     },
@@ -92,9 +92,9 @@
       "id": "8",
       "title": "FinanceFlow",
       "description": "Web App Developemnt",
-      "description2": " In this porjec tI practiced all react hooks and  state managemen, events, Rendering conditional content, components, animations, formvalidations, useReducer, chart.js, working with date objects",
+      "description2": " In this expense tracker project, I've practiced using all React hooks and state management techniques. I've also worked extensively with events, conditional content rendering, components, animations, and form validations. Furthermore, I've implemented the useReducer hook for more complex state management, integrated chart.js for data visualization, and successfully manipulated date objects to enhance the functionality.",
 
-      "skills": "#Reactjs #chart.js #formik&yup",
+      "skills": "#Reactjs #chart.js #formik&yup #chart.js #ReactHooks ",
       "imageSrc": "/images/expense.png",
       "url": "https://react-finance-flow.netlify.app/"
     },
@@ -103,7 +103,7 @@
       "title": "Vidly Backend",
       "description": "Backend Development",
       "description2": "Made a clone of vidly backend site. Developed and maintained the backend infrastructure of the Vidly movie site, including databases, search algorithms, and efficient content management across a diverse array of genres such as action, comedy, drama, horror, romance, and more,route handling, middleware, and error handling in Express.",
-      "skills": " #Express.js #Node.js #MongoDB #JWT #Multer ",
+      "skills": " #Node.js #Express.js #MongoDB #JWT #Multer #Joi #Jest #ODM",
       "imageSrc": "/images/vidly.png",
       "url": "https://github.com/Muhammad-Ibrahim-Amjad64/Vidly-backend"
     },
@@ -111,7 +111,7 @@
       "id": "10",
       "title": "WanderTales",
       "description": "Mobile App Development",
-      "description2": "virtual notebook application that allowed users to save and organize their favorite places, complete with information, photos, Location and personal notes",
+      "description2": "Unveil the perfect companion for preserving your cherished moments with our virtual notebook application. It offers an elegant and intuitive way to organize your favorite places, enabling you to save and categorize them effortlessly. Whether it's comprehensive information, captivating images, exact locations, or personal notes, this application provides a seamless and delightful memory-keeping experience that ensures every detail is captured and relived with ease.",
       "skills": "#ReactNative #ImageUpload #GoogleMaps #SQLite #LocalStorage #formik&yup",
       "imageSrc": "/images/places.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
@@ -120,7 +120,7 @@
   "skills": [
     {
       "id": "1",
-      "title": "React Native",
+      "title": "ReactNative",
       
       "imageSrc": "/images/reactnat.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
@@ -211,7 +211,7 @@
     },
     {
       "id": "14",
-      "title": "React Native Paper",
+      "title": "RN Paper",
     
       "imageSrc": "/images/paper.png",
       "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
