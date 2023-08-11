@@ -122,7 +122,7 @@ export default function Home() {
             className="mt-10 laptop:mt-40 p-2 laptop:p-0"
             ref={aboutRef}
             >
-            <h1 className="tablet:m-10 text-6xl text-bold">Introduction</h1>
+            <h1 className="tablet:m-10 text-6xl text-bold">Initiation</h1>
             <h1 className="tablet:m-10 text-4xl text-bold">
               About <span className="text-slate-400"> me</span>
             </h1>
