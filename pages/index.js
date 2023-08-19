@@ -49,11 +49,7 @@ export default function Home() {
     );
   }, []);
 
-  const redirectToExternalLink = () => {
-    const externalUrl =
-      "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing";
-    window.location.href = externalUrl;
-  };
+
 
   return (
     <div
@@ -146,14 +142,16 @@ export default function Home() {
           </div>
         </div>
 
-          <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
+          <div className="mt-10 m-10 laptop:mt-30  text-start p-2 laptop:p-0" ref={workRef}>
          
-          <h1 className="text-6xl text-bold" >
+          <h1 className="text-6xl   text-bold" >
             
-            My <span className="text-slate-400"> Work</span>
+            My <span className=" text-slate-400"> Work</span>
           </h1>
-
-          <div className="mt-10 m-30 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-3 gap-4">
+          <h1 className=" mt-10 text-4xl text-bold">
+              Crafted from <span className="text-slate-400">Scratch</span>
+            </h1>
+            <div className="mt-10 m-30 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-3 gap-4">
             {data.projects.map((project) => (
               <WorkCard
                 descriptionLarge={project.description2}
@@ -177,7 +175,7 @@ export default function Home() {
           </div>
         )} */}
 
-        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
+        <div className="m-10 mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
           <div className="text-6xl text-bold">
             {" "}
             My <span className="text-slate-400"> Skills</span>

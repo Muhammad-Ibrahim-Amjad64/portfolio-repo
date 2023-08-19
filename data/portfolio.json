@@ -30,7 +30,7 @@
     "description2": " An online burger ordering application that closely resembles Burger's Lab ordering platform. This app is designed to provide a similar experience, allowing users to conveniently order their favorite burgers with just a few clicks. Inspired by the functionality and user-friendly interface of Burger's Lab, my application aims to capture the essence of their service while offering a unique twist. Users can explore a wide range of burger options amnd meals",
       "skills": "#React Native #Firebase #stripe #axios #REDUX toolkit #Authentication",
       "imageSrc": "/images/burger.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64/Everything-In-one-place/tree/master/Final%20APKs/Food%20order%20app"
     },
     {
       "id": "2",
@@ -39,7 +39,7 @@
       "description2": "A FullStack shoe shop that leverages the dynamic capabilities of Next.js and Node.js, coupled with a MongoDB database. Seamlessly incorporated within this platform is the powerful Stripe payment integration, guaranteeing secure and smooth transactions. An advanced authentication system further enhances user engagement, providing personalized experiences and order tracking.",
       "skills": "#Nextjs #Nodejs #MongoDB #Stripe  #Expressjs #REDUX toolkit #Authentication passport.js #CMS   ",
       "imageSrc": "/images/shoe.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "3",
@@ -48,7 +48,7 @@
       "description2": "An innovative e-commerce platform, the FullStack E-Commerce, harnesses the versatility of React.js and Node.js. Backed by a MongoDB database, this dynamic application offers seamless browsing and purchasing experiences. The integration of Stripe ensures secure payments, while an advanced authentication system adds a personalized touch, fostering user engagement and facilitating order tracking.",
       "skills": "#Reactjs #Nodejs #MongoDB #Stripe  #Expressjs #REDUX toolkit #Authentication passport.js #CMS",
       "imageSrc": "/images/wbuy.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "4",
@@ -57,7 +57,7 @@
       "description2": " Experience a full stack chat application that combines secure authentication, Twilio SMS notifications, direct/group chats, threaded replies, emojis, GIFs, YouTube video embedding, and intuitive search capabilities. This versatile platform redefines communication by seamlessly integrating these features, making conversations more engaging and efficient.",
       "skills": "#Reactjs #Nodejs #MongoDB #Expressjs #Socket.io #streamChat #UniversalCookies #getStream.io ",
       "imageSrc": "/images/doccom.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "5",
@@ -75,7 +75,7 @@
       "description2": "An Expense Tracker was developed using Firebase Realtime Database. CRUD operations were implemented using Axios, while form validation was achieved through Formik and Yup. The project also utilized Context API, navigation features, and CRUD operations. Firebase was chosen as the backend for one instance of the project, while the other instance used a Node.js backend with MongoDB as the database. Additionally, a third-party UI library, React Native Paper, was employed.",
       "skills": "#ReactNative #Nodejs #Mongodb #Firebase #axios #ContextApi #frommik&yup #Navigations",
       "imageSrc": "/images/expenseN.png",
-      "url": "https://github.com/Muhammad-Ibrahim-Amjad64/REACT-NATIVE---All-PROJECTS-/tree/master/Apks/Expense%20Tracker"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64/Everything-In-one-place/tree/master/Final%20APKs/Expense%20Tracker"
     },
  
     {
@@ -85,7 +85,7 @@
       "description2": " Facebook Messenger Clone app, a showcase of my skills in frontend and backend development. Built using cutting-edge technologies, this app mimics the familiar chat interface of Facebook Messenger. From real-time messaging to user authentication, I've implemented features that demonstrate my proficiency in creating interactive and secure applications.",
       "skills": "#ReactNative #StreamChat #Firebase #Authentication #NativeFeatures",
       "imageSrc": "/images/clone.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://tastybite-meals.netlify.app/"
     },
     
     {
@@ -114,7 +114,7 @@
       "description2": "Unveil the perfect companion for preserving your cherished moments with our virtual notebook application. It offers an elegant and intuitive way to organize your favorite places, enabling you to save and categorize them effortlessly. Whether it's comprehensive information, captivating images, exact locations, or personal notes, this application provides a seamless and delightful memory-keeping experience that ensures every detail is captured and relived with ease.",
       "skills": "#ReactNative #ImageUpload #GoogleMaps #SQLite #LocalStorage #formik&yup",
       "imageSrc": "/images/places.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64/Everything-In-one-place/tree/master/Final%20APKs/Favourate%20places"
     }
   ],
   "skills": [
@@ -123,119 +123,119 @@
       "title": "ReactNative",
       
       "imageSrc": "/images/reactnat.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "2",
       "title": "Nextjs",
       
       "imageSrc": "/images/nextjs.webp",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "3",
       "title": "Reactjs",
     
       "imageSrc": "/images/react.webp",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "4",
       "title": "Express.js",
       
       "imageSrc": "/images/expressjs.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "5",
       "title": "Nodejs",
       
       "imageSrc": "/images/node.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "6",
       "title": "MongoDB",
       
       "imageSrc": "/images/mongodb.webp",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "7",
       "title": "HTML",
       
       "imageSrc": "/images/html.webp",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "8",
       "title": "CSS",
       
       "imageSrc": "/images/css.webp",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "9",
       "title": "Figma",
       
       "imageSrc": "/images/figma.webp",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "10",
       "title": "firebase",
     
       "imageSrc": "/images/firebase.webp",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "11",
       "title": "REDUX",
     
       "imageSrc": "/images/redux.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "12",
       "title": "Material UI",
     
       "imageSrc": "/images/material.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "13",
       "title": "Tailwind CSS",
     
       "imageSrc": "/images/tailwind.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "14",
       "title": "RN Paper",
     
       "imageSrc": "/images/paper.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "15",
       "title": "Chakra UI",
     
       "imageSrc": "/images/chakra.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "16",
       "title": "git/Github",
     
       "imageSrc": "/images/git.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "17",
       "title": "SQL",
     
       "imageSrc": "/images/sql.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
    
     {
@@ -243,21 +243,21 @@
       "title": "Three.js",
     
       "imageSrc": "/images/three.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "19",
       "title": "Vuejs",
     
       "imageSrc": "/images/vue.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     },
     {
       "id": "20",
       "title": "Boostrap",
     
       "imageSrc": "/images/boo.png",
-      "url": "https://drive.google.com/file/d/17Mkhq_4MrR1CuZsDr7DfMRPOjrZYQqsE/view?usp=sharing"
+      "url": "https://github.com/Muhammad-Ibrahim-Amjad64"
     }
   ],
   "services": [
